@@ -1,0 +1,4 @@
+/home/arya/git/pfms-2024a-LIlARYA/scratch/week00/week00/starter/build/CMakeFiles/hello.dir
+/home/arya/git/pfms-2024a-LIlARYA/scratch/week00/week00/starter/build/CMakeFiles/convertor.dir
+/home/arya/git/pfms-2024a-LIlARYA/scratch/week00/week00/starter/build/CMakeFiles/edit_cache.dir
+/home/arya/git/pfms-2024a-LIlARYA/scratch/week00/week00/starter/build/CMakeFiles/rebuild_cache.dir
